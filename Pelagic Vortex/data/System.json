@@ -99,7 +99,7 @@
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 1,
+  "editMapId": 5,
   "elements": [
     ""
   ],
@@ -298,9 +298,9 @@
       "volume": 90
     }
   ],
-  "startMapId": 1,
-  "startX": 3,
-  "startY": 4,
+  "startMapId": 6,
+  "startX": 1,
+  "startY": 6,
   "switches": [
     "",
     "Pushing",
@@ -308,9 +308,9 @@
     "Captain enters",
     "Captain entered",
     "Captain leaves",
-    "",
-    "",
-    "",
+    "FoundCrowBar",
+    "IgnitedFurnance",
+    "passedEngineRoom",
     "",
     "",
     "",
@@ -509,7 +509,7 @@
     "",
     ""
   ],
-  "versionId": 62679819,
+  "versionId": 39683217,
   "victoryMe": {
     "name": "Victory1",
     "pan": 0,
