@@ -6,14 +6,14 @@
     "name": "Lenora's Bedroom",
     "order": 1,
     "parentId": 0,
-    "scrollX": 832,
-    "scrollY": 640
+    "scrollX": 553.6363636363636,
+    "scrollY": 352.90909090909093
   },
   {
     "id": 2,
     "expanded": true,
     "name": "Lower Hallway",
-    "order": 4,
+    "order": 3,
     "parentId": 0,
     "scrollX": 553.6363636363636,
     "scrollY": 352.90909090909093
@@ -22,10 +22,10 @@
     "id": 3,
     "expanded": true,
     "name": "Lab",
-    "order": 3,
-    "parentId": 0,
-    "scrollX": 553.6363636363636,
-    "scrollY": 352.90909090909093
+    "order": 6,
+    "parentId": 5,
+    "scrollX": 1139,
+    "scrollY": 628
   },
   {
     "id": 4,
@@ -34,7 +34,7 @@
     "order": 2,
     "parentId": 0,
     "scrollX": 544.9090909090909,
-    "scrollY": 607.0909090909091
+    "scrollY": 439.0909090909091
   },
   {
     "id": 5,
@@ -49,8 +49,8 @@
     "id": 6,
     "expanded": false,
     "name": "Engine Room",
-    "order": 6,
-    "parentId": 0,
+    "order": 7,
+    "parentId": 5,
     "scrollX": 553.6363636363636,
     "scrollY": 352.90909090909093
   },
@@ -58,9 +58,18 @@
     "id": 7,
     "expanded": false,
     "name": "Break Room",
-    "order": 7,
+    "order": 8,
     "parentId": 0,
-    "scrollX": 544.9090909090909,
-    "scrollY": 607.0909090909091
+    "scrollX": 1139,
+    "scrollY": 628
+  },
+  {
+    "id": 8,
+    "expanded": false,
+    "name": "electrical room",
+    "order": 4,
+    "parentId": 2,
+    "scrollX": 553.6363636363636,
+    "scrollY": 352.90909090909093
   }
 ]

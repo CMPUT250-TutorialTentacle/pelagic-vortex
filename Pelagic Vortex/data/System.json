@@ -1,7 +1,7 @@
 {
   "airship": {
     "bgm": {
-      "name": "Ship3",
+      "name": "",
       "pan": 0,
       "pitch": 100,
       "volume": 90
@@ -70,7 +70,7 @@
     }
   ],
   "battleBgm": {
-    "name": "Battle1",
+    "name": "",
     "pan": 0,
     "pitch": 100,
     "volume": 90
@@ -81,7 +81,7 @@
   "battlerName": "Dragon",
   "boat": {
     "bgm": {
-      "name": "Ship1",
+      "name": "",
       "pan": 0,
       "pitch": 100,
       "volume": 90
@@ -94,12 +94,12 @@
   },
   "currencyUnit": "G",
   "defeatMe": {
-    "name": "Defeat1",
+    "name": "",
     "pan": 0,
     "pitch": 100,
     "volume": 90
   },
-  "editMapId": 7,
+  "editMapId": 6,
   "elements": [
     ""
   ],
@@ -108,7 +108,7 @@
   ],
   "gameTitle": "Pelagic Vortex",
   "gameoverMe": {
-    "name": "Gameover1",
+    "name": "",
     "pan": 0,
     "pitch": 100,
     "volume": 90
@@ -138,7 +138,7 @@
   ],
   "ship": {
     "bgm": {
-      "name": "Ship2",
+      "name": "",
       "pan": 0,
       "pitch": 100,
       "volume": 90
@@ -322,6 +322,35 @@
     "",
     "",
     "",
+    "",
+    "power_1",
+    "power_2",
+    "power_3",
+    "power_4",
+    "power_5",
+    "power_6",
+    "power_working",
+    "slot_1",
+    "slot_2",
+    "slot_3",
+    "slot_4",
+    "slot_5",
+    "slot_6",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
     ""
   ],
   "terms": {
@@ -488,7 +517,7 @@
   },
   "variables": [
     "",
-    "",
+    "#_powered",
     "",
     "",
     "",
@@ -509,9 +538,9 @@
     "",
     ""
   ],
-  "versionId": 11364480,
+  "versionId": 47385221,
   "victoryMe": {
-    "name": "Victory1",
+    "name": "",
     "pan": 0,
     "pitch": 100,
     "volume": 90
