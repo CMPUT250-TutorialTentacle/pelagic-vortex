@@ -1,11 +1,11 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Lenora's Bedroom","order":1,"parentId":0,"scrollX":819,"scrollY":439.5},
-{"id":2,"expanded":true,"name":"Lower Hallway","order":3,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":true,"name":"Lower Hallway","order":3,"parentId":0,"scrollX":819,"scrollY":439.5},
 {"id":3,"expanded":true,"name":"Lab","order":7,"parentId":5,"scrollX":819,"scrollY":439.5},
-{"id":4,"expanded":true,"name":"Captain's Cockpit","order":2,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":4,"expanded":true,"name":"Captain's Cockpit","order":2,"parentId":0,"scrollX":811,"scrollY":439.5},
 {"id":5,"expanded":true,"name":"Upper Hallway","order":5,"parentId":0,"scrollX":819,"scrollY":439.5},
-{"id":6,"expanded":false,"name":"Engine Room","order":6,"parentId":5,"scrollX":500.72727272727275,"scrollY":415.6363636363636},
+{"id":6,"expanded":false,"name":"Engine Room","order":6,"parentId":5,"scrollX":819,"scrollY":439.5},
 {"id":7,"expanded":false,"name":"Break Room","order":8,"parentId":0,"scrollX":811,"scrollY":439.5},
 {"id":8,"expanded":false,"name":"electrical room","order":4,"parentId":2,"scrollX":819,"scrollY":439.5}
 ]
