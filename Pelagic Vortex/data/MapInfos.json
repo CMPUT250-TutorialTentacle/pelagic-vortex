@@ -1,12 +1,12 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Lenora's Bedroom","order":1,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":2,"expanded":true,"name":"Lower Hallway","order":3,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":1,"expanded":true,"name":"Lenora's Bedroom","order":1,"parentId":0,"scrollX":306,"scrollY":254},
+{"id":2,"expanded":true,"name":"Lower Hallway","order":3,"parentId":0,"scrollX":306,"scrollY":248.66666666666666},
 {"id":3,"expanded":true,"name":"Lab","order":8,"parentId":5,"scrollX":306,"scrollY":254},
-{"id":4,"expanded":true,"name":"Captain's Cockpit","order":2,"parentId":0,"scrollX":754,"scrollY":413.6666666666667},
-{"id":5,"expanded":true,"name":"Upper Hallway","order":6,"parentId":0,"scrollX":459.3333333333333,"scrollY":248.66666666666666},
+{"id":4,"expanded":true,"name":"Captain's Cockpit","order":2,"parentId":0,"scrollX":300.6666666666667,"scrollY":254},
+{"id":5,"expanded":true,"name":"Upper Hallway","order":6,"parentId":0,"scrollX":501,"scrollY":373},
 {"id":6,"expanded":false,"name":"Engine Room","order":7,"parentId":5,"scrollX":759.3333333333334,"scrollY":413},
 {"id":7,"expanded":false,"name":"Break Room","order":9,"parentId":0,"scrollX":300.6666666666667,"scrollY":254},
-{"id":8,"expanded":false,"name":"electrical room","order":4,"parentId":2,"scrollX":515.3333333333334,"scrollY":375.3333333333333},
-{"id":9,"expanded":false,"name":"green house","order":5,"parentId":2,"scrollX":459.3333333333333,"scrollY":375.3333333333333}
+{"id":8,"expanded":false,"name":"electrical room","order":4,"parentId":2,"scrollX":300.6666666666667,"scrollY":375.3333333333333},
+{"id":9,"expanded":false,"name":"green house","order":5,"parentId":2,"scrollX":510,"scrollY":248.66666666666666}
 ]
