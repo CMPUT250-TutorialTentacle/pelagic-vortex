@@ -1,5 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"$lenora","classId":1,"equips":[],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":1,"name":"Lenora","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"flashlight","nickname":"","note":"[light glow]","profile":""}
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"$lenora","classId":1,"equips":[],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":1,"name":"Lenora","nickname":"","note":"","profile":""}
 ]
