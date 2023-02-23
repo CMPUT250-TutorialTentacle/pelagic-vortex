@@ -30,20 +30,23 @@
     "scrollType": 0,
     "specifyBattleback": false,
     "tilesetId": 3,
-    "width": 7,
+    "width": 8,
     "data": [
+        0,
         1661,
         1661,
-        1661,
+        7143,
         1590,
-        7032,
+        7143,
+        0,
         0,
         0,
         1581,
         1581,
+        7149,
         1581,
-        1581,
-        7247,
+        7149,
+        0,
         0,
         0,
         1586,
@@ -53,12 +56,6 @@
         1586,
         0,
         0,
-        1586,
-        1586,
-        1586,
-        1586,
-        1586,
-        0,
         0,
         1586,
         1586,
@@ -67,6 +64,7 @@
         1586,
         0,
         0,
+        0,
         1586,
         1586,
         1586,
@@ -74,17 +72,19 @@
         1586,
         0,
         0,
-        7387,
-        7386,
-        7390,
+        0,
         1586,
-        7391,
+        1586,
+        1586,
+        1586,
+        1586,
         0,
         0,
         0,
         0,
         0,
         0,
+        1586,
         0,
         0,
         0,
@@ -161,6 +161,26 @@
         0,
         0,
         0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        533,
+        0,
+        0,
+        0,
+        199,
         0,
         0,
         0,
@@ -168,6 +188,7 @@
         70,
         71,
         0,
+        195,
         0,
         0,
         0,
@@ -180,17 +201,20 @@
         0,
         0,
         0,
+        0,
         513,
         0,
         0,
         520,
         0,
         0,
-        513,
         0,
         513,
         0,
         513,
+        0,
+        513,
+        0,
         0,
         0,
         513,
@@ -203,6 +227,7 @@
         0,
         0,
         0,
+        0,
         525,
         0,
         0,
@@ -223,50 +248,61 @@
         0,
         0,
         0,
+        534,
+        523,
+        523,
         0,
-        199,
+        522,
         0,
+        535,
         0,
-        0,
+        533,
         646,
         647,
         0,
-        195,
+        530,
         0,
+        532,
         0,
-        0,
+        533,
         654,
         655,
         513,
         513,
         513,
+        532,
         0,
-        0,
+        533,
         513,
         512,
         513,
         513,
         645,
+        532,
         0,
-        0,
+        533,
         644,
         513,
         336,
         513,
         528,
+        532,
         0,
-        0,
+        533,
         652,
         513,
         513,
         513,
         513,
+        532,
         0,
-        0,
-        0,
-        0,
-        0,
+        546,
+        540,
+        540,
+        540,
         513,
+        540,
+        547,
         0,
         0,
         0,
@@ -293,9 +329,18 @@
         0,
         0,
         0,
-        12,
         0,
-        12,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         0,
         0,
         0,
@@ -348,52 +393,61 @@
         0,
         0,
         2,
-        2,
-        2,
+        0,
+        0,
+        0,
+        0,
         0,
         2,
         0,
-        0,
+        2,
         1,
         1,
         0,
         0,
         0,
+        2,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        2,
         0,
         0,
         0,
         0,
         0,
         2,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        2,
+        2,
         2,
         2,
         0,
         2,
+        2,
+        0,
         0,
         0,
         0,
@@ -426,7 +480,7 @@
                         "itemValid": false,
                         "selfSwitchCh": "A",
                         "selfSwitchValid": false,
-                        "switch1Id": 17,
+                        "switch1Id": 19,
                         "switch1Valid": false,
                         "switch2Id": 1,
                         "switch2Valid": false,
@@ -436,11 +490,11 @@
                     },
                     "directionFix": false,
                     "image": {
-                        "characterIndex": 0,
-                        "characterName": "",
+                        "tileId": 0,
+                        "characterName": "!2TileDoor",
                         "direction": 2,
                         "pattern": 0,
-                        "tileId": 0
+                        "characterIndex": 0
                     },
                     "list": [
                         {
@@ -469,6 +523,76 @@
                                     "volume": 90,
                                     "pitch": 100,
                                     "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 17
+                                        },
+                                        {
+                                            "code": 37
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 17
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 37
+                                }
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                -1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 12
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": true,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 12
                                 }
                             ]
                         },
@@ -513,7 +637,7 @@
                     },
                     "moveSpeed": 3,
                     "moveType": 0,
-                    "priorityType": 0,
+                    "priorityType": 1,
                     "stepAnime": false,
                     "through": false,
                     "trigger": 1,
@@ -557,6 +681,76 @@
                             ]
                         },
                         {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 17
+                                        },
+                                        {
+                                            "code": 37
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 17
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 37
+                                }
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                -1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 12
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": true,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 12
+                                }
+                            ]
+                        },
+                        {
                             "code": 201,
                             "indent": 0,
                             "parameters": [
@@ -593,9 +787,60 @@
                     "through": false,
                     "trigger": 1,
                     "walkAnime": true
+                },
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 19,
+                        "switch1Valid": true,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "!2TileDoor",
+                        "direction": 4,
+                        "pattern": 0,
+                        "characterIndex": 0
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
                 }
             ],
-            "x": 3,
+            "x": 4,
             "y": 1
         },
         {
@@ -725,7 +970,7 @@
                     "walkAnime": true
                 }
             ],
-            "x": 3,
+            "x": 4,
             "y": 6
         },
         null,
@@ -837,6 +1082,18 @@
                             "indent": 0,
                             "parameters": [
                                 0
+                            ]
+                        },
+                        {
+                            "code": 241,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "Deep Cea (no remainder)",
+                                    "volume": 30,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
                             ]
                         },
                         {
@@ -1020,7 +1277,7 @@
                     "walkAnime": true
                 }
             ],
-            "x": 3,
+            "x": 4,
             "y": 4
         },
         {
@@ -1169,6 +1426,15 @@
                                     ],
                                     "indent": null
                                 }
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                19,
+                                19,
+                                0
                             ]
                         },
                         {
@@ -1644,7 +1910,7 @@
                                             "code": 41,
                                             "parameters": [
                                                 "",
-                                                0
+                                                5
                                             ],
                                             "indent": null
                                         },
@@ -1688,7 +1954,7 @@
                                     "code": 41,
                                     "parameters": [
                                         "",
-                                        0
+                                        5
                                     ],
                                     "indent": null
                                 }
@@ -1725,24 +1991,21 @@
                             ]
                         },
                         {
-                            "code": 241,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "name": "Unnapprehended Appendage (no remainder)",
-                                    "volume": 30,
-                                    "pitch": 100,
-                                    "pan": 0
-                                }
-                            ]
-                        },
-                        {
                             "code": 121,
                             "indent": 0,
                             "parameters": [
                                 5,
                                 5,
                                 0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                19,
+                                19,
+                                1
                             ]
                         },
                         {
@@ -1789,11 +2052,11 @@
                     },
                     "directionFix": false,
                     "image": {
-                        "characterIndex": 0,
+                        "tileId": 0,
                         "characterName": "",
-                        "direction": 2,
-                        "pattern": 0,
-                        "tileId": 0
+                        "direction": 6,
+                        "pattern": 2,
+                        "characterIndex": 0
                     },
                     "list": [
                         {
@@ -1818,12 +2081,12 @@
                     "moveType": 0,
                     "priorityType": 0,
                     "stepAnime": false,
-                    "through": false,
+                    "through": true,
                     "trigger": 0,
                     "walkAnime": true
                 }
             ],
-            "x": 5,
+            "x": 6,
             "y": 2
         },
         {
@@ -1924,7 +2187,7 @@
                     "walkAnime": true
                 }
             ],
-            "x": 4,
+            "x": 5,
             "y": 4
         },
         {
@@ -2049,7 +2312,7 @@
                     "walkAnime": true
                 }
             ],
-            "x": 0,
+            "x": 1,
             "y": 2
         },
         {
@@ -2174,76 +2437,10 @@
                     "walkAnime": true
                 }
             ],
-            "x": 1,
-            "y": 2
-        },
-        {
-            "id": 9,
-            "name": "light 1",
-            "note": "",
-            "pages": [
-                {
-                    "conditions": {
-                        "actorId": 1,
-                        "actorValid": false,
-                        "itemId": 1,
-                        "itemValid": false,
-                        "selfSwitchCh": "A",
-                        "selfSwitchValid": false,
-                        "switch1Id": 10,
-                        "switch1Valid": false,
-                        "switch2Id": 1,
-                        "switch2Valid": false,
-                        "variableId": 1,
-                        "variableValid": false,
-                        "variableValue": 0
-                    },
-                    "directionFix": false,
-                    "image": {
-                        "characterIndex": 0,
-                        "characterName": "",
-                        "direction": 2,
-                        "pattern": 0,
-                        "tileId": 0
-                    },
-                    "list": [
-                        {
-                            "code": 108,
-                            "indent": 0,
-                            "parameters": [
-                                "[light -radius 150]"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": []
-                        }
-                    ],
-                    "moveFrequency": 3,
-                    "moveRoute": {
-                        "list": [
-                            {
-                                "code": 0,
-                                "parameters": []
-                            }
-                        ],
-                        "repeat": true,
-                        "skippable": false,
-                        "wait": false
-                    },
-                    "moveSpeed": 3,
-                    "moveType": 0,
-                    "priorityType": 0,
-                    "stepAnime": false,
-                    "through": false,
-                    "trigger": 0,
-                    "walkAnime": true
-                }
-            ],
             "x": 2,
             "y": 2
         },
+        null,
         {
             "id": 10,
             "name": "Bed Dialogue",
@@ -2342,10 +2539,76 @@
                     "walkAnime": true
                 }
             ],
-            "x": 0,
+            "x": 1,
             "y": 4
         },
-        null,
+        {
+            "id": 11,
+            "name": "light 1",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 10,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "!Flame",
+                        "direction": 4,
+                        "pattern": 1,
+                        "characterIndex": 1
+                    },
+                    "list": [
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "[light -radius 150]"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 3,
+            "y": 2
+        },
         {
             "id": 12,
             "name": "Bed Dialogue",
@@ -2444,7 +2707,7 @@
                     "walkAnime": true
                 }
             ],
-            "x": 0,
+            "x": 1,
             "y": 5
         },
         {
@@ -2562,8 +2825,9 @@
                     "walkAnime": true
                 }
             ],
-            "x": 4,
+            "x": 5,
             "y": 3
-        }
+        },
+        null
     ]
 }
