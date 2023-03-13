@@ -13,5 +13,6 @@ var $plugins =
 {"name":"GALV_MessageStyles","status":false,"description":"(v.2.8) Settings to change how your \"Show Text\" messages look as well as code to make them floating.","parameters":{"Input Indicator":"2,0,-12","Indicator Zoom":"100","Message Padding":"0,0,0,0","Message Windowskin":"Window","Other Windowskins":"","Arrow Graphic":"TutorialTentacleIcon","Other Arrow Graphics":"","Windowskin Back Opacity":"192","Y Offset":"60","Font":"","Font Filename":"","Font Outline":"true","Font Size":"28"}},
 {"name":"GALV_MoveRouteExtras","status":true,"description":"Additional SCRIPT commands to use within MOVE ROUTES\r\nView the plugin \"Help\" to view available commands.","parameters":{}},
 {"name":"Keep Moving (Event) (MV)","status":true,"description":"Allows an event to continue moving while you interact with it","parameters":{}},
-{"name":"Character Anchors (MV)","status":true,"description":"Adjust anchor positions to change alignment with tiles.","parameters":{}}
+{"name":"Character Anchors (MV)","status":true,"description":"Adjust anchor positions to change alignment with tiles.","parameters":{}},
+{"name":"nomptp","status":true,"description":"","parameters":{}}
 ];
