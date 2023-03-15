@@ -1375,7 +1375,7 @@ class Layer {
         if (!this.lighting)
             this.lighting = new LightingLayer();
         Shora.MessageY = 0;
-        this.updateIntensityFilter(this._spriteset);
+        //this.updateIntensityFilter(this._spriteset);
         if ($gameMap.mapId() === this.mapId && this._spriteset.type() == this._spritesetType && this.lighting) 
             return this.lighting.update(), this._spriteset._baseSprite.addChild(this.lighting.sprite); 
         this._spritesetType = this._spriteset.type();
