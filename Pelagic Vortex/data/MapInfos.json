@@ -7,8 +7,8 @@ null,
 {"id":5,"expanded":false,"name":"Lower Hall","order":6,"parentId":0,"scrollX":759.3333333333334,"scrollY":413},
 {"id":6,"expanded":false,"name":"Engine Room","order":7,"parentId":5,"scrollX":759.3333333333334,"scrollY":413},
 {"id":7,"expanded":true,"name":"Break Room","order":9,"parentId":0,"scrollX":746,"scrollY":456.5},
-{"id":8,"expanded":false,"name":"electrical room","order":4,"parentId":2,"scrollX":759.3333333333334,"scrollY":413},
+{"id":8,"expanded":false,"name":"electrical room","order":4,"parentId":2,"scrollX":751.3333333333334,"scrollY":405},
 {"id":9,"expanded":false,"name":"green house old","order":3,"parentId":2,"scrollX":759.3333333333334,"scrollY":413},
 null,
-{"id":11,"expanded":false,"name":"green house new","order":5,"parentId":2,"scrollX":832,"scrollY":640}
+{"id":11,"expanded":false,"name":"green house new","order":5,"parentId":2,"scrollX":746,"scrollY":411}
 ]
