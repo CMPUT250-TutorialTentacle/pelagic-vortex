@@ -126,7 +126,7 @@
         true
     ],
     "optDisplayTp": true,
-    "optDrawTitle": true,
+    "optDrawTitle": false,
     "optExtraExp": false,
     "optFloorDeath": false,
     "optFollowers": true,
@@ -298,9 +298,9 @@
             "volume": 90
         }
     ],
-    "startMapId": 11,
-    "startX": 15,
-    "startY": 13,
+    "startMapId": 1,
+    "startX": 4,
+    "startY": 4,
     "switches": [
         "",
         "Pushing",
@@ -360,15 +360,15 @@
         "Jiho repeated dialogue",
         "endgame",
         "buzzed",
+        "entered electrical",
+        "entered engine",
+        "can use stopwatch",
+        "blinking",
+        "blinking over",
         "plant 4 cutdown",
         "plant 5 cutdown",
         "plant 6 cutdown",
         "plant 7 cutdown",
-        "",
-        "",
-        "",
-        "",
-        "",
         "",
         "",
         "",
@@ -558,7 +558,7 @@
         }
     ],
     "testTroopId": 4,
-    "title1Name": "Explosion_cutscene0000",
+    "title1Name": "temptitle",
     "title2Name": "",
     "titleBgm": {
         "name": "title (no remainder)",
@@ -589,7 +589,7 @@
         "",
         ""
     ],
-    "versionId": 12942899,
+    "versionId": 67519150,
     "victoryMe": {
         "name": "",
         "pan": 0,

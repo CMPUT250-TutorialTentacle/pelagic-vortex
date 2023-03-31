@@ -56,6 +56,22 @@
                 ]
             },
             {
+                "code": 231,
+                "indent": 0,
+                "parameters": [
+                    43,
+                    "mapbedroom_scaled_2x_pngcrushed",
+                    0,
+                    0,
+                    640,
+                    -10,
+                    100,
+                    100,
+                    150,
+                    0
+                ]
+            },
+            {
                 "code": 121,
                 "indent": 0,
                 "parameters": [
@@ -1831,6 +1847,22 @@
                 ]
             },
             {
+                "code": 231,
+                "indent": 2,
+                "parameters": [
+                    43,
+                    "mapbedroom_scaled_2x_pngcrushed",
+                    0,
+                    0,
+                    640,
+                    -10,
+                    100,
+                    100,
+                    150,
+                    0
+                ]
+            },
+            {
                 "code": 121,
                 "indent": 2,
                 "parameters": [
@@ -1884,11 +1916,11 @@
                 "indent": 1,
                 "parameters": [
                     [
-                        "Yes",
                         "Yes, to the entrance of the room",
+                        "Yes",
                         "No"
                     ],
-                    1,
+                    2,
                     0,
                     2,
                     0
@@ -1899,94 +1931,6 @@
                 "indent": 1,
                 "parameters": [
                     0,
-                    "Yes"
-                ]
-            },
-            {
-                "code": 224,
-                "indent": 2,
-                "parameters": [
-                    [
-                        255,
-                        255,
-                        0,
-                        170
-                    ],
-                    120,
-                    false
-                ]
-            },
-            {
-                "code": 250,
-                "indent": 2,
-                "parameters": [
-                    {
-                        "name": "snd_timeeffect",
-                        "volume": 90,
-                        "pitch": 100,
-                        "pan": 0
-                    }
-                ]
-            },
-            {
-                "code": 223,
-                "indent": 2,
-                "parameters": [
-                    [
-                        -255,
-                        -255,
-                        -255,
-                        0
-                    ],
-                    60,
-                    true
-                ]
-            },
-            {
-                "code": 117,
-                "indent": 2,
-                "parameters": [
-                    2
-                ]
-            },
-            {
-                "code": 201,
-                "indent": 2,
-                "parameters": [
-                    0,
-                    1,
-                    4,
-                    4,
-                    8,
-                    0
-                ]
-            },
-            {
-                "code": 121,
-                "indent": 2,
-                "parameters": [
-                    37,
-                    37,
-                    0
-                ]
-            },
-            {
-                "code": 117,
-                "indent": 2,
-                "parameters": [
-                    9
-                ]
-            },
-            {
-                "code": 0,
-                "indent": 2,
-                "parameters": []
-            },
-            {
-                "code": 402,
-                "indent": 1,
-                "parameters": [
-                    1,
                     "Yes, to the entrance of the room"
                 ]
             },
@@ -2061,6 +2005,22 @@
                 ]
             },
             {
+                "code": 231,
+                "indent": 3,
+                "parameters": [
+                    43,
+                    "maplowerhall_scaled_2x_pngcrushed",
+                    0,
+                    0,
+                    640,
+                    -10,
+                    100,
+                    100,
+                    150,
+                    0
+                ]
+            },
+            {
                 "code": 0,
                 "indent": 3,
                 "parameters": []
@@ -2141,6 +2101,22 @@
                 ]
             },
             {
+                "code": 231,
+                "indent": 3,
+                "parameters": [
+                    43,
+                    "maplowerhall_scaled_2x_pngcrushed",
+                    0,
+                    0,
+                    640,
+                    -10,
+                    100,
+                    100,
+                    150,
+                    0
+                ]
+            },
+            {
                 "code": 223,
                 "indent": 3,
                 "parameters": [
@@ -2235,6 +2211,22 @@
                 ]
             },
             {
+                "code": 231,
+                "indent": 3,
+                "parameters": [
+                    43,
+                    "mapupperhall_scaled_2x_pngcrushed",
+                    0,
+                    0,
+                    640,
+                    -10,
+                    100,
+                    100,
+                    150,
+                    0
+                ]
+            },
+            {
                 "code": 223,
                 "indent": 3,
                 "parameters": [
@@ -2259,98 +2251,108 @@
                 "parameters": []
             },
             {
-                "code": 111,
+                "code": 0,
                 "indent": 2,
+                "parameters": []
+            },
+            {
+                "code": 402,
+                "indent": 1,
                 "parameters": [
                     1,
-                    7,
+                    "Yes"
+                ]
+            },
+            {
+                "code": 224,
+                "indent": 2,
+                "parameters": [
+                    [
+                        255,
+                        255,
+                        0,
+                        170
+                    ],
+                    120,
+                    false
+                ]
+            },
+            {
+                "code": 250,
+                "indent": 2,
+                "parameters": [
+                    {
+                        "name": "snd_timeeffect",
+                        "volume": 90,
+                        "pitch": 100,
+                        "pan": 0
+                    }
+                ]
+            },
+            {
+                "code": 223,
+                "indent": 2,
+                "parameters": [
+                    [
+                        -255,
+                        -255,
+                        -255,
+                        0
+                    ],
+                    60,
+                    true
+                ]
+            },
+            {
+                "code": 117,
+                "indent": 2,
+                "parameters": [
+                    2
+                ]
+            },
+            {
+                "code": 201,
+                "indent": 2,
+                "parameters": [
                     0,
+                    1,
                     4,
-                    0
-                ]
-            },
-            {
-                "code": 224,
-                "indent": 3,
-                "parameters": [
-                    [
-                        255,
-                        255,
-                        0,
-                        170
-                    ],
-                    120,
-                    false
-                ]
-            },
-            {
-                "code": 250,
-                "indent": 3,
-                "parameters": [
-                    {
-                        "name": "snd_timeeffect",
-                        "volume": 90,
-                        "pitch": 100,
-                        "pan": 0
-                    }
-                ]
-            },
-            {
-                "code": 223,
-                "indent": 3,
-                "parameters": [
-                    [
-                        -255,
-                        -255,
-                        -255,
-                        0
-                    ],
-                    60,
-                    true
-                ]
-            },
-            {
-                "code": 117,
-                "indent": 3,
-                "parameters": [
-                    2
-                ]
-            },
-            {
-                "code": 201,
-                "indent": 3,
-                "parameters": [
-                    0,
-                    2,
-                    14,
-                    3,
+                    4,
                     8,
                     0
                 ]
             },
             {
-                "code": 223,
-                "indent": 3,
+                "code": 231,
+                "indent": 2,
                 "parameters": [
-                    [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
-                    60,
-                    true
+                    43,
+                    "mapbedroom_scaled_2x_pngcrushed",
+                    0,
+                    0,
+                    640,
+                    -10,
+                    100,
+                    100,
+                    150,
+                    0
                 ]
             },
             {
-                "code": 0,
-                "indent": 3,
-                "parameters": []
+                "code": 121,
+                "indent": 2,
+                "parameters": [
+                    37,
+                    37,
+                    0
+                ]
             },
             {
-                "code": 412,
+                "code": 117,
                 "indent": 2,
-                "parameters": []
+                "parameters": [
+                    9
+                ]
             },
             {
                 "code": 0,
@@ -2418,8 +2420,8 @@
                 "indent": 1,
                 "parameters": [
                     0,
-                    44,
-                    1
+                    60,
+                    0
                 ]
             },
             {
@@ -3004,6 +3006,20 @@
         "id": 14,
         "list": [
             {
+                "code": 235,
+                "indent": 0,
+                "parameters": [
+                    43
+                ]
+            },
+            {
+                "code": 235,
+                "indent": 0,
+                "parameters": [
+                    42
+                ]
+            },
+            {
                 "code": 231,
                 "indent": 0,
                 "parameters": [
@@ -3060,7 +3076,7 @@
                 "parameters": [
                     {
                         "name": "Collapse2",
-                        "volume": 90,
+                        "volume": 65,
                         "pitch": 80,
                         "pan": 0
                     }
@@ -3113,6 +3129,38 @@
                 "indent": 0,
                 "parameters": [
                     1
+                ]
+            },
+            {
+                "code": 231,
+                "indent": 0,
+                "parameters": [
+                    43,
+                    "mapupperhall_scaled_2x_pngcrushed",
+                    0,
+                    0,
+                    640,
+                    -10,
+                    100,
+                    100,
+                    150,
+                    0
+                ]
+            },
+            {
+                "code": 231,
+                "indent": 0,
+                "parameters": [
+                    42,
+                    "sparkly Q_scaled_4x_pngcrushed",
+                    1,
+                    0,
+                    598,
+                    58,
+                    50,
+                    50,
+                    150,
+                    0
                 ]
             },
             {
@@ -3412,6 +3460,20 @@
                 "indent": 0,
                 "parameters": [
                     10
+                ]
+            },
+            {
+                "code": 235,
+                "indent": 0,
+                "parameters": [
+                    43
+                ]
+            },
+            {
+                "code": 235,
+                "indent": 0,
+                "parameters": [
+                    42
                 ]
             },
             {

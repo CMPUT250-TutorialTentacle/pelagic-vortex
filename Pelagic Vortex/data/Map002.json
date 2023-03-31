@@ -930,6 +930,22 @@
                             ]
                         },
                         {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                43,
+                                "mapbreakroom_scaled_2x_pngcrushed",
+                                0,
+                                0,
+                                640,
+                                -10,
+                                100,
+                                100,
+                                150,
+                                0
+                            ]
+                        },
+                        {
                             "code": 121,
                             "indent": 0,
                             "parameters": [
@@ -1023,6 +1039,22 @@
                             ]
                         },
                         {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                43,
+                                "mapcockpit_scaled_2x_pngcrushed",
+                                0,
+                                0,
+                                640,
+                                -10,
+                                100,
+                                100,
+                                150,
+                                0
+                            ]
+                        },
+                        {
                             "code": 0,
                             "indent": 0,
                             "parameters": []
@@ -1103,6 +1135,22 @@
                                 10,
                                 3,
                                 0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                43,
+                                "mapbreakroom_scaled_2x_pngcrushed",
+                                0,
+                                0,
+                                640,
+                                -10,
+                                100,
+                                100,
+                                150,
                                 0
                             ]
                         },
@@ -1196,6 +1244,22 @@
                                 1,
                                 4,
                                 0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                43,
+                                "mapcockpit_scaled_2x_pngcrushed",
+                                0,
+                                0,
+                                640,
+                                -10,
+                                100,
+                                100,
+                                150,
                                 0
                             ]
                         },
@@ -1563,6 +1627,22 @@
                             ]
                         },
                         {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                43,
+                                "mapbreakroom_scaled_2x_pngcrushed",
+                                0,
+                                0,
+                                640,
+                                -10,
+                                100,
+                                100,
+                                150,
+                                0
+                            ]
+                        },
+                        {
                             "code": 121,
                             "indent": 0,
                             "parameters": [
@@ -1652,6 +1732,22 @@
                                 1,
                                 2,
                                 0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                43,
+                                "mapcockpit_scaled_2x_pngcrushed",
+                                0,
+                                0,
+                                640,
+                                -10,
+                                100,
+                                100,
+                                150,
                                 0
                             ]
                         },
@@ -2062,6 +2158,22 @@
                             ]
                         },
                         {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                43,
+                                "mapelectrical_scaled_2x_pngcrushed",
+                                0,
+                                0,
+                                640,
+                                -10,
+                                100,
+                                100,
+                                150,
+                                0
+                            ]
+                        },
+                        {
                             "code": 230,
                             "indent": 0,
                             "parameters": [
@@ -2076,8 +2188,17 @@
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 111,
                             "indent": 0,
+                            "parameters": [
+                                0,
+                                58,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
                             "parameters": [
                                 "lenora portrait",
                                 0,
@@ -2087,23 +2208,42 @@
                         },
                         {
                             "code": 401,
-                            "indent": 0,
+                            "indent": 1,
                             "parameters": [
                                 "I’ll have to get a closer look at the "
                             ]
                         },
                         {
                             "code": 401,
-                            "indent": 0,
+                            "indent": 1,
                             "parameters": [
                                 "tentacle so I can figure out "
                             ]
                         },
                         {
                             "code": 401,
-                            "indent": 0,
+                            "indent": 1,
                             "parameters": [
                                 "what I need to do."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                58,
+                                58,
+                                0
                             ]
                         },
                         {
