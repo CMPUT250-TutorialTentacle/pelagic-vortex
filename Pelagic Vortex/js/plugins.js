@@ -14,5 +14,6 @@ var $plugins =
 {"name":"GALV_MoveRouteExtras","status":true,"description":"Additional SCRIPT commands to use within MOVE ROUTES\r\nView the plugin \"Help\" to view available commands.","parameters":{}},
 {"name":"Keep Moving (Event) (MV)","status":true,"description":"Allows an event to continue moving while you interact with it","parameters":{}},
 {"name":"Character Anchors (MV)","status":true,"description":"Adjust anchor positions to change alignment with tiles.","parameters":{}},
-{"name":"nomptp","status":true,"description":"","parameters":{}}
+{"name":"nomptp","status":true,"description":"","parameters":{}},
+{"name":"MAZE_NoLevels","status":true,"description":"Remove all reference to level system","parameters":{"updateLayout":"false","yanflyOverride":"false"}}
 ];
