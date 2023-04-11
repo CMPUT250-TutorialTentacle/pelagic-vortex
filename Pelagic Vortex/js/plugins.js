@@ -17,5 +17,5 @@ var $plugins =
 {"name":"nomptp","status":true,"description":"","parameters":{}},
 {"name":"custom_wasd","status":true,"description":"","parameters":{}},
 {"name":"MAZE_NoLevels","status":true,"description":"Remove all reference to level system","parameters":{"updateLayout":"true","yanflyOverride":"false"}},
-{"name":"FELSKI_AUTOSAVE","status":true,"description":"v1.0.1 This plugin enables autosaving in your game. For RPG Maker MV 1.6.1.","parameters":{"Save Settings":"","Auto Save Slots":"1","Save After Map Change":"false","Save On Menu Exit":"false","Enable Auto Saving":"true","Save Texts":"","Auto Save Text":"Autosave","Save After Map Change Text":"Entering Area","Save On Menu Exit Text":"Closing Menu","Save Standard Text":"Normal Save"}}
+{"name":"FELSKI_AUTOSAVE","status":true,"description":"v1.0.1 This plugin enables autosaving in your game. For RPG Maker MV 1.6.1.","parameters":{"Save Settings":"","Auto Save Slots":"1","Save After Map Change":"false","Save On Menu Exit":"false","Enable Auto Saving":"true","Save Texts":"","Auto Save Text":"Autosave","Save After Map Change Text":"Pelagic Vortex","Save On Menu Exit Text":"Pelagic Vortex","Save Standard Text":"Pelagic Vortex"}}
 ];
