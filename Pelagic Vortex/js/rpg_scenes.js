@@ -970,7 +970,7 @@ Scene_Menu.prototype.initialize = function() {
 Scene_Menu.prototype.create = function() {
     Scene_MenuBase.prototype.create.call(this);
     this.createCommandWindow();
-    this.createGoldWindow();
+    //this.createGoldWindow();
     this.createStatusWindow();
 };
 
